@@ -1,2 +1,2 @@
-# next-s-dashboard
+# Next.js-dashboard
 Next.js Dashboard tutorial
